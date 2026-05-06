@@ -1,6 +1,6 @@
 ## Data Engineering Project (dbt Pipeline)
 
-### 📌 Overview
+### Overview
 This project is an end-to-end data pipeline built using **dbt (data build tool)**.  
 It transforms raw data into clean, structured, and analytics-ready datasets using modular SQL models.
 
